@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrutimeshram311
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python but want to explore more
+- 🌱 I’m currently learning java but want to explore more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- you an direectly mail me on- shrutimeshram1102@gmail.com
 
